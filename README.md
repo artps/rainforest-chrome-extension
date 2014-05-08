@@ -1,4 +1,4 @@
 rainforest-chrome-extension
 ===========================
 
-Rainforest chrome extension
+Chrome Extension for RainforestQA
