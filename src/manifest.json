@@ -1,0 +1,17 @@
+{
+  "name": "rainforest",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": {
+      "19": "images/Icon.png",
+      "38": "images/Icon@2x.png"
+    },
+    "default_title": "Rainforest",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "https://app.rainforestqa.com/",
+    "storage"
+  ]
+}

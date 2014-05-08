@@ -1,0 +1,36 @@
+body {
+  width: 600px;
+  height: 400px;
+  background: #fff;
+  font: 0.75em/1.5 'Helvetica Neue', Arial, 'Sans Serif';
+}
+
+
+.b-page {}
+
+.b-modal {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+
+  z-index: 100;
+}
+
+.b-modal__title {}
+.b-modal__body {}
+.b-modal__close {
+}
+
+.b-modal--hidden {
+  display: none;
+}
+
+.b-tests_list {}
+.b-tests_list__item {}
+

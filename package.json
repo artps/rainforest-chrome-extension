@@ -1,0 +1,26 @@
+{
+  "name": "rainforest-chrome-extension",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "browserify": {
+    "transform": [
+      "reactify"
+    ]
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-copy": "^0.5.0",
+    "reactify": "^0.13.1",
+    "grunt-watchify": "^0.1.0",
+    "browserify": "^3.46.0",
+    "grunt-browserify": "^2.0.8",
+    "grunt-contrib-clean": "^0.5.0"
+  },
+  "dependencies": {
+    "envify": "^1.2.1",
+    "react": "^0.10.0",
+    "superagent": "^0.18.0",
+    "es6-promise": "^1.0.0"
+  }
+}

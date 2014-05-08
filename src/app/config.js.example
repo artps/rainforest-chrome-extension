@@ -1,0 +1,4 @@
+var request = require('./lib/request');
+
+request.endpoint('https://app.rainforestqa.com/api/1/', 'json');
+request.credentials(username, password);

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon" sketch:type="MSLayerGroup">
+            <rect id="Basement" fill="#118A08" sketch:type="MSShapeGroup" x="0" y="0" width="38" height="38" rx="6"></rect>
+            <g id="Leaf" transform="translate(9.000000, 10.000000)" sketch:type="MSShapeGroup">
+                <path d="M7.51911938,3.93127781 C12.0745044,2.92325786 16.4274276,5.34250575 21.5901973,0 C23.9185047,13.1042594 15.8200425,17.9427552 10.0498888,18.7491711 C6.8547093,19.1957179 3.26742622,19.2531811 0.736656901,17.1363392 C-1.18672794,12.1970414 0.514803827,5.48119945 7.51911938,3.93127781 Z" id="Body" fill="#FFFFFF"></path>
+                <path d="M4,15 C6.57142857,8.875 13,10.1 13,10.1" id="BackboneBody" stroke="#118A08"></path>
+                <path d="M0,20 C2.0184375,15.1270237 3,16.0742241 3,16.0742241" id="BackboneTail" stroke="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
